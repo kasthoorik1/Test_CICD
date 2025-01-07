@@ -1,0 +1,9 @@
+{
+    "actions": [
+        {
+            "id": "openReadmeFile",
+            "actionType": "FILE",
+            "uri": "file:///home/user/projects/Test_CAPM_Project/.gen/generation.log"
+        }
+    ]
+}
