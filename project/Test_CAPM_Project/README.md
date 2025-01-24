@@ -1,6 +1,6 @@
 # Getting Started
 
-Welcome to your new project. - test2
+Welcome to your new project. - test3
 
 It contains these folders and files, following our recommended project layout:
 
