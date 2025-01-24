@@ -39,4 +39,4 @@ stages:
 #        apiEndpoint: 'https://'
 #        appName: 'myAppName'
 #        manifest: 'manifest.yml'
-#        credentialsId: 'myDeploymentCredentialsId'
+#        credentialsId: 'delpoy-to-cf'
